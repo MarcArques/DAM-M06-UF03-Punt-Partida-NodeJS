@@ -1,0 +1,9 @@
+{"level":"info","message":" Conectado a MongoDB"}
+{"level":"info","message":" Ejecutando consulta 1..."}
+{"level":"info","message":"Media de ViewCount: 5291.538395904437"}
+{"level":"info","message":" Preguntas encontradas (ViewCount > Media): 163"}
+{"level":"info","message":" Ejecutando consulta 2..."}
+{"level":"info","message":" Preguntas encontradas (Keywords en Title): 6"}
+{"level":"info","message":" Archivo PDF generado: /home/nacro/Documents/GitHub/DAM-M06-UF03-Punt-Partida-NodeJS/exemple-mongodb/src/data/out/informe1.pdf"}
+{"level":"info","message":" Archivo PDF generado: /home/nacro/Documents/GitHub/DAM-M06-UF03-Punt-Partida-NodeJS/exemple-mongodb/src/data/out/informe2.pdf"}
+{"level":"info","message":"Conexión cerrada"}
